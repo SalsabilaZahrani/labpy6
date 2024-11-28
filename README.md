@@ -112,12 +112,12 @@ FLOWCHART
 ![flowchart](https://github.com/user-attachments/assets/b10efa86-c8d4-49b1-a4c9-220d3a81c4ae)
 
 PENJELASAN!
-Data Mahasiswa: Data mahasiswa disimpan dalam list data_mahasiswa, yang berisi dictionary dengan kunci 'nama', 'nim', dan 'nilai'.
-Fungsi tambah(): Meminta input nama, NIM, dan nilai mahasiswa, lalu menambahkannya ke dalam daftar.
-Fungsi tampilkan(): Menampilkan semua data mahasiswa yang ada dalam daftar.
-Fungsi hapus(nama): Menghapus data mahasiswa berdasarkan nama yang diberikan.
-Fungsi ubah(nama): Mengubah data mahasiswa berdasarkan nama yang diberikan, termasuk nama, NIM, dan nilai.
-Menu Utama: Menyediakan antarmuka pengguna untuk memilih operasi yang diinginkan.
+1. Data Mahasiswa: Data mahasiswa disimpan dalam list data_mahasiswa, yang berisi dictionary dengan kunci 'nama', 'nim', dan 'nilai'.
+2. Fungsi tambah(): Meminta input nama, NIM, dan nilai mahasiswa, lalu menambahkannya ke dalam daftar.
+3. Fungsi tampilkan(): Menampilkan semua data mahasiswa yang ada dalam daftar.
+4. Fungsi hapus(nama): Menghapus data mahasiswa berdasarkan nama yang diberikan.
+5. Fungsi ubah(nama): Mengubah data mahasiswa berdasarkan nama yang diberikan, termasuk nama, NIM, dan nilai.
+6. Menu Utama: Menyediakan antarmuka pengguna untuk memilih operasi yang diinginkan.
 
 
 
